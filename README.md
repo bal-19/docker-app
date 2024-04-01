@@ -14,6 +14,7 @@ docker build --tag gambling-site .
 ```bash
 docker run -p 8888:80 gambling-site:latest
 ```
+now go to [localhost:8888](http://localhost:8888/)
 
 ## License
 
